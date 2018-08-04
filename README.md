@@ -1,6 +1,6 @@
 # Deep SORT
 
-<iframe height=768 width=1024 src="https://github.com/MTMC-DeeCamp2018/deep_sort/blob/master/Output/output.gif">
+<center><img src="./Output/output.gif" width="600"></center>
 
 ## Introduction
 This repository is forked form [deep_sort](https://github.com/nwojke/deep_sort)
